@@ -53,6 +53,7 @@ This is the second line to be added
 				<a id="simpleRevisited" class="textLink" href="<c:url value="/simple/revisited" />">GET /simple/revisited</a>
 			</li>
 		</ul>
+		<p> This is automatically deployed with no downtime </p>
 	</div>
 	<div id="mapping">
 		<h2>Request Mapping</h2>
